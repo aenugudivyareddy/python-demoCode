@@ -1,0 +1,29 @@
+GIt commands: --
+
+
+To config the user details : --
+
+git config --global user.name "aenugudivyareddy"
+
+git config --global user.email "divya@digitaldots.ai"
+
+git config --list
+
+To initial the git in folder 
+
+git init
+
+
+To add the files in git 
+
+git add .
+
+to check the git status
+
+git status
+
+to commit the code into git repo
+
+git commit -m "code added into repo"
+
+
